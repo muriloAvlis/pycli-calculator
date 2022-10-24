@@ -2,6 +2,12 @@
 
 O projeto CLI-Calculator executa as 4 principais operações matemáticas e retorna o resultado.
 
+## Requisitos
+
+- python3
+
+## Execução
+
 Para executar o projeto siga os seguintes passos:
 
 - Clone este repositório
