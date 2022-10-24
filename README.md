@@ -1,4 +1,4 @@
-# CLI-calculator Project
+# CLI-Calculator Project
 
 O projeto CLI-Calculator executa as 4 principais operações matemáticas e retorna o resultado.
 
